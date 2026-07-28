@@ -105,7 +105,7 @@ Mobile-Price-Classification/
 
 ## ✨ Key Highlights
 
-* Complete Machine Learning Classification Pipeline
+* Complete Machine Learning Workflow
 * Exploratory Data Analysis (EDA)
 * Data Preprocessing
 * Multiple Classification Algorithms
