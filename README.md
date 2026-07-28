@@ -131,7 +131,7 @@ Mobile-Price-Classification/
 
 ## 🏆 Final Model Selection
 
-Three classification models—**LinearSVC**, **K-Nearest Neighbors (KNN)**, and **Random Forest Classifier**—were trained and evaluated. After performing manual hyperparameter tuning, RandomizedSearchCV, GridSearchCV, and 5-Fold Cross Validation, **K-Nearest Neighbors (KNN)** achieved the best overall performance and was selected as the final model.
+Three classification models—**LinearSVC**, **K-Nearest Neighbors (KNN)**, and **Random Forest Classifier**—were trained and evaluated. After performing manual hyperparameter tuning, RandomizedSearchCV, GridSearchCV, and 5-Fold Cross Validation, **K-Nearest Neighbors (KNN)** achieved the best overall performance and was selected as the final model
 
 ---
 
